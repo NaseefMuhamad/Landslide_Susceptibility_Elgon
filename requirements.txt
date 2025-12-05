@@ -1,0 +1,10 @@
+numpy
+pandas
+geopandas
+rasterio
+scipy
+scikit-learn
+tensorflow
+earthengine-api
+geemap
+gdal
